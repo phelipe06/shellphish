@@ -4,8 +4,9 @@
 ## IG: https://www.instagram.com/phellipe_0_1_1/
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/phelipe06/shellphish/blob/master/README.md
 cd shellphish
+chmod 777 shellphish.sh
 bash shellphish.sh
 ```
 
