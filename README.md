@@ -4,7 +4,7 @@
 ## IG: https://www.instagram.com/phellipe_0_1_1/
 ### Usage:
 ```
-git clone https://github.com/phelipe06/shellphish/blob/master/README.md
+git clone https://github.com/phelipe06/shellphish
 cd shellphish
 chmod 777 shellphish.sh
 bash shellphish.sh
