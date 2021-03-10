@@ -77,10 +77,10 @@ printf "\e[1;77m      \ \ | || \  / _  )| || ||  ____/ | || \ | | /___)| || \  \
 printf "\e[1;77m  _____) )| | | |( (/ / | || || |      | | | || ||___ || | | | \e[0m\n"
 printf "\e[1;77m (______/ |_| |_| \____)|_||_||_|      |_| |_||_|(___/ |_| |_| v1.1\e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing IG:@phellipe_011 @bruno_0_1_1 \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing IG:@phellipe_011 @_clar4m__ \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
-printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
-printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShellPhish ::\e[0m\n"
+printf "  \e[101m\e[1;77m:: GITHUB: https://github.com/phelipe06            ::\e[0m\n"
+printf "  \e[101m\e[1;77m:: GITHUB: https://github.com/phelipe06/shellPhish ::\e[0m\n"
 printf "\n"
 }
 
